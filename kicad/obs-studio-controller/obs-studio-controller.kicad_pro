@@ -48,7 +48,23 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [],
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        },
+        {
+          "gap": 0.127,
+          "via_gap": 0.26,
+          "width": 0.127
+        },
+        {
+          "gap": 0.2,
+          "via_gap": 0.26,
+          "width": 0.3
+        }
+      ],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -112,8 +128,23 @@
         "solder_mask_min_width": 0.0,
         "use_height_for_length_calcs": true
       },
-      "track_widths": [],
-      "via_dimensions": [],
+      "track_widths": [
+        0.0,
+        0.127,
+        0.3,
+        0.5,
+        0.8
+      ],
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        },
+        {
+          "diameter": 0.55,
+          "drill": 0.33
+        }
+      ],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -444,7 +475,7 @@
       "Flasher"
     ],
     [
-      "7b7eea84-2da3-4e0b-a8da-45aa84298919",
+      "28c4bed2-26ca-4af4-b791-822726acdee4",
       "AMS1117-5V-3v3"
     ]
   ],
