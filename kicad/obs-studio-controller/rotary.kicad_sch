@@ -355,7 +355,7 @@
     (uuid e54d9a79-9b95-44be-b58a-f0db9be977e4)
     (property "Reference" "SW1" (id 0) (at 55.88 48.26 0))
     (property "Value" "RotaryEncoder_Switch" (id 1) (at 52.705 45.72 0))
-    (property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles" (id 2) (at 41.91 34.671 0)
+    (property "Footprint" "custom:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles" (id 2) (at 41.91 34.671 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 45.72 32.131 0)

@@ -2688,16 +2688,16 @@
       (reference "R32") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
     (path "/7c72f399-88fc-4ad8-8292-2679c2543078/e54d9a79-9b95-44be-b58a-f0db9be977e4"
-      (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles")
+      (reference "SW1") (unit 1) (value "RotaryEncoder_Switch") (footprint "custom:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles")
     )
     (path "/0abc3e1c-f4c3-482e-a2b1-7584514c0a77/e54d9a79-9b95-44be-b58a-f0db9be977e4"
-      (reference "SW2") (unit 1) (value "RotaryEncoder_Switch") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles")
+      (reference "SW2") (unit 1) (value "RotaryEncoder_Switch") (footprint "custom:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles")
     )
     (path "/c83a0cfc-2ed4-48cd-85a2-938000991978/e54d9a79-9b95-44be-b58a-f0db9be977e4"
-      (reference "SW3") (unit 1) (value "RotaryEncoder_Switch") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles")
+      (reference "SW3") (unit 1) (value "RotaryEncoder_Switch") (footprint "custom:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles")
     )
     (path "/bb8d6c2f-cac0-4223-bfee-593bd84a4057/e54d9a79-9b95-44be-b58a-f0db9be977e4"
-      (reference "SW4") (unit 1) (value "RotaryEncoder_Switch") (footprint "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles")
+      (reference "SW4") (unit 1) (value "RotaryEncoder_Switch") (footprint "custom:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles")
     )
     (path "/2cca60b2-c391-4567-b3b7-6a900207223b"
       (reference "U1") (unit 1) (value "ESP32-WROOM-32") (footprint "RF_Module:ESP32-WROOM-32")

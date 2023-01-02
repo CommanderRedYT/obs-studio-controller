@@ -398,7 +398,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "obs-studio-controller.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
