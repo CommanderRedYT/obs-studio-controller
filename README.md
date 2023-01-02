@@ -28,3 +28,6 @@ The ESP32 software will be using the ESP-IDF. From experience I have noticed som
 
 ## Contributing
 If you encounter any problems, or have improvements, feel free to open an Issue or even a Pull Request!
+
+## "Roadmap"
+- After ordering the [first version](https://github.com/CommanderRedYT/obs-studio-controller/releases/tag/ordered-01) I discovered that I accidentally selected the wrong part for the rotary encoders (ones without buttons). Next revision will have that fixed, but for now, I will need to reorder the right components and try to replace the ones on the pcb 
