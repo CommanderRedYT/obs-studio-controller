@@ -310,7 +310,7 @@
     (property "Datasheet" "https://lcsc.com/product-detail/Coded-Rotary-Switches_ALPS-Electric-EC11K1524406_C398934.html" (id 3) (at 54.61 59.055 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (property "LCSC" "C398934" (id 4) (at 54.61 38.735 0)
+    (property "LCSC" "C129727" (id 4) (at 54.61 38.735 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Manufacturer" "ALPS Electric" (id 5) (at 54.61 38.735 0)

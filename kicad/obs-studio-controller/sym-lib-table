@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "usb_c")(type "Legacy")(uri "${KIPRJMOD}/external/usb_c/usb_c.lib")(options "")(descr ""))
+  (lib (name "custom")(type "Legacy")(uri "${KIPRJMOD}/custom.lib")(options "")(descr ""))
 )
