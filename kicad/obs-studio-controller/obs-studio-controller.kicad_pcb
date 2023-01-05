@@ -498,9 +498,9 @@
       (net 85 "unconnected-(SW3-PadMH1)") (pinfunction "MH1") (pintype "unspecified") (tstamp 264c532f-cbb8-434c-bb86-fcdd85d11575))
     (pad "MH2" thru_hole oval locked (at 5.47 -0.25 90) (size 4 2.3) (drill oval 2.999994 1.55001) (layers *.Cu *.Paste *.Mask)
       (net 86 "unconnected-(SW3-PadMH2)") (pinfunction "MH2") (pintype "unspecified") (tstamp 20b2662f-455d-42fb-bd85-5d6b12be889d))
-    (model "${KIPRJMOD}/custom.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+    (model "${KIPRJMOD}/custom.3dshapes/Rotary.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.25 0.25 0.25))
       (rotate (xyz 0 0 0))
     )
   )
@@ -711,9 +711,9 @@
       (net 81 "unconnected-(SW1-PadMH1)") (pinfunction "MH1") (pintype "unspecified") (tstamp 0f47a336-8ee5-4f09-a37d-a85b767f005d))
     (pad "MH2" thru_hole oval (at 5.47 -0.25 90) (size 4 2.3) (drill oval 2.999994 1.55001) (layers *.Cu *.Paste *.Mask)
       (net 82 "unconnected-(SW1-PadMH2)") (pinfunction "MH2") (pintype "unspecified") (tstamp 7103be1e-d4d8-4cbb-84ac-e009d79531d1))
-    (model "${KIPRJMOD}/custom.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+    (model "${KIPRJMOD}/custom.3dshapes/Rotary.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.25 0.25 0.25))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1067,9 +1067,9 @@
       (net 83 "unconnected-(SW2-PadMH1)") (pinfunction "MH1") (pintype "unspecified") (tstamp 1f5029a1-fd6b-494c-8080-b08f0354eed9))
     (pad "MH2" thru_hole oval locked (at 5.47 -0.25 90) (size 4 2.3) (drill oval 2.999994 1.55001) (layers *.Cu *.Paste *.Mask)
       (net 84 "unconnected-(SW2-PadMH2)") (pinfunction "MH2") (pintype "unspecified") (tstamp 91cbb0ed-0df5-4e35-8e0c-388d3778ab36))
-    (model "${KIPRJMOD}/custom.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+    (model "${KIPRJMOD}/custom.3dshapes/Rotary.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.25 0.25 0.25))
       (rotate (xyz 0 0 0))
     )
   )
@@ -1454,9 +1454,9 @@
       (net 87 "unconnected-(SW4-PadMH1)") (pinfunction "MH1") (pintype "unspecified") (tstamp b11b3529-5d29-48a7-bf82-bcc478543797))
     (pad "MH2" thru_hole oval locked (at 5.47 -0.25 90) (size 4 2.3) (drill oval 2.999994 1.55001) (layers *.Cu *.Paste *.Mask)
       (net 88 "unconnected-(SW4-PadMH2)") (pinfunction "MH2") (pintype "unspecified") (tstamp 0b617c44-a6ee-4005-9d67-b45923140b89))
-    (model "${KIPRJMOD}/custom.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+    (model "${KIPRJMOD}/custom.3dshapes/Rotary.step"
+      (offset (xyz 0 0.25 0))
+      (scale (xyz 0.25 0.25 0.25))
       (rotate (xyz 0 0 0))
     )
   )
