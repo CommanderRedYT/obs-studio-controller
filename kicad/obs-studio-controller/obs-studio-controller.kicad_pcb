@@ -498,7 +498,7 @@
       (net 85 "unconnected-(SW3-PadMH1)") (pinfunction "MH1") (pintype "unspecified") (tstamp 264c532f-cbb8-434c-bb86-fcdd85d11575))
     (pad "MH2" thru_hole oval locked (at 5.47 -0.25 90) (size 4 2.3) (drill oval 2.999994 1.55001) (layers *.Cu *.Paste *.Mask)
       (net 86 "unconnected-(SW3-PadMH2)") (pinfunction "MH2") (pintype "unspecified") (tstamp 20b2662f-455d-42fb-bd85-5d6b12be889d))
-    (model "/home/ccomm/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
+    (model "${KIPRJMOD}/custom.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -696,22 +696,22 @@
     (fp_circle (center 0 -0.25) (end 0.5 -0.25) (layer "Cmts.User") (width 1) (fill none) (tstamp 07318811-424a-42ef-bffa-a7b7af4100c2))
     (fp_circle (center 0 4.25) (end 0.37 4.25) (layer "Cmts.User") (width 0.75) (fill none) (tstamp 6f4aabe5-3bf6-4d42-a63a-e52e3691f67a))
     (fp_circle (center -6.57 7.4) (end -6.54 7.4) (layer "F.Fab") (width 0.06) (fill none) (tstamp b04d518c-bd1c-498b-a6f6-2229e8894dbc))
-    (pad "" thru_hole circle locked (at 0 -0.25) (size 2.1 2.1) (drill 2.1) (layers *.Cu *.Mask) (tstamp 79b95cd9-164d-4b21-908e-408f8cc11c7e))
-    (pad "A" thru_hole circle locked (at -2.5 7.25) (size 1.8 1.8) (drill 1.049985) (layers *.Cu *.Paste *.Mask)
+    (pad "" thru_hole circle (at 0 -0.25) (size 2.1 2.1) (drill 2.1) (layers *.Cu *.Mask) (tstamp 79b95cd9-164d-4b21-908e-408f8cc11c7e))
+    (pad "A" thru_hole circle (at -2.5 7.25) (size 1.8 1.8) (drill 1.049985) (layers *.Cu *.Paste *.Mask)
       (net 46 "/ROT1_DT") (pinfunction "A") (pintype "unspecified") (tstamp 59135e54-9b2f-4b09-9096-d5f3f477ccf0))
-    (pad "B" thru_hole circle locked (at 2.5 7.25) (size 1.8 1.8) (drill 1.049985) (layers *.Cu *.Paste *.Mask)
+    (pad "B" thru_hole circle (at 2.5 7.25) (size 1.8 1.8) (drill 1.049985) (layers *.Cu *.Paste *.Mask)
       (net 47 "/ROT1_CLK") (pinfunction "B") (pintype "unspecified") (tstamp 7d18a9b8-2953-4617-ba54-2c7e2b357627))
-    (pad "C" thru_hole circle locked (at 0 7.25) (size 1.8 1.8) (drill 1.049985) (layers *.Cu *.Paste *.Mask)
+    (pad "C" thru_hole circle (at 0 7.25) (size 1.8 1.8) (drill 1.049985) (layers *.Cu *.Paste *.Mask)
       (net 1 "GND") (pinfunction "C") (pintype "unspecified") (tstamp 60e25f24-669c-415c-bd8a-0be9cbae698b))
-    (pad "D" thru_hole circle locked (at -2.5 -7.25) (size 1.8 1.8) (drill 1.049985) (layers *.Cu *.Paste *.Mask)
+    (pad "D" thru_hole circle (at -2.5 -7.25) (size 1.8 1.8) (drill 1.049985) (layers *.Cu *.Paste *.Mask)
       (net 1 "GND") (pinfunction "D") (pintype "unspecified") (tstamp 291162c3-1a5b-4daf-a077-abd4dace076b))
-    (pad "E" thru_hole circle locked (at 2.5 -7.25) (size 1.8 1.8) (drill 1.049985) (layers *.Cu *.Paste *.Mask)
+    (pad "E" thru_hole circle (at 2.5 -7.25) (size 1.8 1.8) (drill 1.049985) (layers *.Cu *.Paste *.Mask)
       (net 8 "/BUTTON_1") (pinfunction "E") (pintype "unspecified") (tstamp e60847cc-46d9-4d02-85f2-0925fe436c56))
-    (pad "MH1" thru_hole oval locked (at -5.47 -0.25 90) (size 4 2.3) (drill oval 2.999994 1.55001) (layers *.Cu *.Paste *.Mask)
+    (pad "MH1" thru_hole oval (at -5.47 -0.25 90) (size 4 2.3) (drill oval 2.999994 1.55001) (layers *.Cu *.Paste *.Mask)
       (net 81 "unconnected-(SW1-PadMH1)") (pinfunction "MH1") (pintype "unspecified") (tstamp 0f47a336-8ee5-4f09-a37d-a85b767f005d))
-    (pad "MH2" thru_hole oval locked (at 5.47 -0.25 90) (size 4 2.3) (drill oval 2.999994 1.55001) (layers *.Cu *.Paste *.Mask)
+    (pad "MH2" thru_hole oval (at 5.47 -0.25 90) (size 4 2.3) (drill oval 2.999994 1.55001) (layers *.Cu *.Paste *.Mask)
       (net 82 "unconnected-(SW1-PadMH2)") (pinfunction "MH2") (pintype "unspecified") (tstamp 7103be1e-d4d8-4cbb-84ac-e009d79531d1))
-    (model "/home/ccomm/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
+    (model "${KIPRJMOD}/custom.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1067,7 +1067,7 @@
       (net 83 "unconnected-(SW2-PadMH1)") (pinfunction "MH1") (pintype "unspecified") (tstamp 1f5029a1-fd6b-494c-8080-b08f0354eed9))
     (pad "MH2" thru_hole oval locked (at 5.47 -0.25 90) (size 4 2.3) (drill oval 2.999994 1.55001) (layers *.Cu *.Paste *.Mask)
       (net 84 "unconnected-(SW2-PadMH2)") (pinfunction "MH2") (pintype "unspecified") (tstamp 91cbb0ed-0df5-4e35-8e0c-388d3778ab36))
-    (model "/home/ccomm/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
+    (model "${KIPRJMOD}/custom.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1454,7 +1454,7 @@
       (net 87 "unconnected-(SW4-PadMH1)") (pinfunction "MH1") (pintype "unspecified") (tstamp b11b3529-5d29-48a7-bf82-bcc478543797))
     (pad "MH2" thru_hole oval locked (at 5.47 -0.25 90) (size 4 2.3) (drill oval 2.999994 1.55001) (layers *.Cu *.Paste *.Mask)
       (net 88 "unconnected-(SW4-PadMH2)") (pinfunction "MH2") (pintype "unspecified") (tstamp 0b617c44-a6ee-4005-9d67-b45923140b89))
-    (model "/home/ccomm/Documents/Kicad/easyeda2kicad/easyeda2kicad.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
+    (model "${KIPRJMOD}/custom.3dshapes/SW-TH_EC11K1524406-L11.7-W12.0-H24.5-P2.5-LS13.1.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
