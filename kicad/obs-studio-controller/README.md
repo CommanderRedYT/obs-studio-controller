@@ -8,3 +8,6 @@
 
 ## Version 1.1 (Fix wrong rotary encoder)
 ![Image of version 1.1](obs-studio-controller-v1.1.png)
+
+## Version 1.2 (Fix flipped display header)
+![Image of version 1.2](obs-studio-controller-v1.2.png)
