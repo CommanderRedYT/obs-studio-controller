@@ -6,3 +6,5 @@ sdkconfig.old*
 .idea
 .ccache
 .vscode
+config.cmake
+sdkconfig
