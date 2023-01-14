@@ -6,3 +6,6 @@
 3. Source the environment via `source ./export.sh`
 4. Switch to the correct build config via `switchconf.sh <config>`
 5. Run `idf.py build` to build the firmware
+
+## Information for Flashing
+Because the display is connected to GPIO12, you will need to burn an efuse to set the flash voltage to 3.3V. To do this, execute `tools/dev-burn-efuse` and enter `BURN`.
