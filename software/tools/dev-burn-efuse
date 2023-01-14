@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/env python ./esp-idf/components/esptool_py/esptool/espefuse.py set_flash_voltage 3.3V -p /dev/ttyACM0

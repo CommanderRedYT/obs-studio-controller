@@ -1,0 +1,72 @@
+[submodule "software/esp-idf"]
+	path = software/esp-idf
+	url = ../../0xFEEDC0DE64/esp-idf.git
+[submodule "software/esp-protocols"]
+	path = software/esp-protocols
+	url = ../../0xFEEDC0DE64/esp-protocols.git
+[submodule "software/components/ArduinoJson"]
+	path = software/components/ArduinoJson
+	url = ../../0xFEEDC0DE64/ArduinoJson.git
+[submodule "software/components/arduino-esp32"]
+	path = software/components/arduino-esp32
+	url = ../../0xFEEDC0DE64/arduino-esp32.git
+[submodule "software/components/cpputils"]
+	path = software/components/cpputils
+	url = ../../0xFEEDC0DE64/cpputils.git
+[submodule "software/components/cxx-ring-buffer"]
+	path = software/components/cxx-ring-buffer
+	url = ../../0xFEEDC0DE64/cxx-ring-buffer.git
+[submodule "software/components/date"]
+	path = software/components/date
+	url = ../../0xFEEDC0DE64/date.git
+[submodule "software/components/esp-nimble-cpp"]
+	path = software/components/esp-nimble-cpp
+	url = ../../bobbycar-graz/esp-nimble-cpp.git
+[submodule "software/components/espasynchttpreq"]
+	path = software/components/espasynchttpreq
+	url = ../../0xFEEDC0DE64/espasynchttpreq.git
+[submodule "software/components/espasyncota"]
+	path = software/components/espasyncota
+	url = ../../0xFEEDC0DE64/espasyncota.git
+[submodule "software/components/espchrono"]
+	path = software/components/espchrono
+	url = ../../0xFEEDC0DE64/espchrono.git
+[submodule "software/components/espcpputils"]
+	path = software/components/espcpputils
+	url = ../../0xFEEDC0DE64/espcpputils.git
+[submodule "software/components/esphttpdutils"]
+	path = software/components/esphttpdutils
+	url = ../../0xFEEDC0DE64/esphttpdutils.git
+[submodule "software/components/espwifistack"]
+	path = software/components/espwifistack
+	url = ../../0xFEEDC0DE64/espwifistack.git
+[submodule "software/components/expected"]
+	path = software/components/expected
+	url = ../../0xFEEDC0DE64/expected.git
+[submodule "software/components/fmt"]
+	path = software/components/fmt
+	url = ../../0xFEEDC0DE64/fmt.git
+[submodule "software/components/TFT_eSPI"]
+	path = software/components/TFT_eSPI
+	url = ../../0xFEEDC0DE64/TFT_eSPI.git
+[submodule "software/components/esp-gui-lib"]
+	path = software/components/esp-gui-lib
+	url = ../../0xFEEDC0DE64/esp-gui-lib.git
+[submodule "software/components/espconfiglib"]
+	path = software/components/espconfiglib
+	url = ../../0xFEEDC0DE64/espconfiglib.git
+[submodule "software/components/espasyncmdns"]
+	path = software/components/espasyncmdns
+	url = ../../0xFEEDC0DE64/espasyncmdns.git
+[submodule "software/components/espfontlib"]
+	path = software/components/espfontlib
+	url = ../../0xFEEDC0DE64/espfontlib.git
+[submodule "software/components/esptftlib"]
+	path = software/components/esptftlib
+	url = ../../0xFEEDC0DE64/esptftlib.git
+[submodule "software/components/FastLED-idf"]
+	path = software/components/FastLED-idf
+	url = ../../0xFEEDC0DE64/FastLED-idf.git
+[submodule "software/components/QRCode-esp32"]
+	path = software/components/QRCode-esp32
+	url = ../../bobbycar-graz/QRCode-esp32

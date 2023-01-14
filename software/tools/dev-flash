@@ -1,0 +1,2 @@
+#!/bin/bash
+idf.py -p /dev/ttyACM0 -b 921600 flash monitor -b 115200
