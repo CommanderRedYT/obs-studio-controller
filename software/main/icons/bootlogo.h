@@ -5,4 +5,4 @@
 
 namespace icons {
 extern const espgui::Icon<291, 240> bootlogo;
-} // namespace bobbyicons
+} // namespace icons

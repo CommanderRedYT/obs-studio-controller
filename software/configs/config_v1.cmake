@@ -5,6 +5,6 @@ add_definitions(
   -fdiagnostics-color=always
 )
 
-set(PROJECT_BUILDFLAGS
+set(CUSTOM_BUILDFLAGS
     -DBOARD_REVISION_V1
 )

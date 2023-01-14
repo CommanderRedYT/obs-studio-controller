@@ -31,6 +31,7 @@ def main():
         args = Object()
         args.input_file = icon
         args.output_file = os.path.abspath(os.path.join(ICON_DIR, icon_name + ".cpp"))
+        args.swap = True
         
         convert_png_to_rgb565(args)
 
