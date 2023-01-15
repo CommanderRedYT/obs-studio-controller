@@ -11,3 +11,6 @@
 
 ## Version 1.2 (Fix flipped display header)
 ![Image of version 1.2](obs-studio-controller-v1.2.png)
+
+## Version 2.0 (Actually connect the rotary encoders)
+![Image of version 2.0](obs-studio-controller-v2.0.png)
