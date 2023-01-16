@@ -20,14 +20,14 @@ constexpr const pin_t BUTTONS_OUT_1 = 19;
 
 // Rotary
 #ifdef BOARD_REVISION_V1
-constexpr const pin_t ROTARY_1_DATA = 39;
-constexpr const pin_t ROTARY_1_CLK = 36;
-constexpr const pin_t ROTARY_2_DATA = 34;
-constexpr const pin_t ROTARY_2_CLK = 35;
-constexpr const pin_t ROTARY_3_DATA = 32;
-constexpr const pin_t ROTARY_3_CLK = 33;
-constexpr const pin_t ROTARY_4_DATA = 26;
-constexpr const pin_t ROTARY_4_CLK = 27;
+constexpr const pin_t ROTARY_1_DATA = 27;
+constexpr const pin_t ROTARY_1_CLK = 26;
+constexpr const pin_t ROTARY_2_DATA = 33;
+constexpr const pin_t ROTARY_2_CLK = 32;
+constexpr const pin_t ROTARY_3_DATA = 35;
+constexpr const pin_t ROTARY_3_CLK = 34;
+constexpr const pin_t ROTARY_4_DATA = 39;
+constexpr const pin_t ROTARY_4_CLK = 36;
 #endif
 
 // LEDs

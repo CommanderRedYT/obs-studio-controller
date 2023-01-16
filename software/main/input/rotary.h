@@ -1,5 +1,8 @@
 #pragma once
 
+// system includes
+#include <array>
+
 // 3rdparty lib includes
 #include <espchrono.h>
 
@@ -7,18 +10,28 @@
 #include "pins.h"
 
 namespace input {
-template<pin_t CLK, pin_t DATA>
 class Rotary {
 public:
-    static constexpr auto CLK_PIN = CLK;
-    static constexpr auto DATA_PIN = DATA;
+    Rotary(pin_t pin_clk, pin_t pin_data);
 
     void begin();
-
-    void updateRotate();
+    void loop();
 private:
-    espchrono::millis_clock::time_point m_lastMillis;
+    pin_t m_pin_clk;
+    pin_t m_pin_data;
 
-    bool m_lastClk;
+    int m_encoder_pos{0};
+    bool m_rotating{false};
+
+    bool m_a_set{false};
+    bool m_b_set{false};
+
+    void encoderA();
+    void encoderB();
 };
+
+extern std::array<Rotary, 4> rotary_encoders;
+
+void initRotary();
+void updateRotary();
 } // namespace input

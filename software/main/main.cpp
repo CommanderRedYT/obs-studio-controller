@@ -9,6 +9,7 @@ constexpr const char * const TAG = "MAIN";
 
 // local includes
 #include "screens.h"
+#include "screens/mainmenu.h"
 #include "settings.h"
 #include "taskmanager.h"
 
@@ -27,6 +28,8 @@ extern "C" void app_main()
         setBootMsg(task.name());
         task.setup();
     }
+
+    espgui::switchScreen<gui::MainMenu>();
 
     while (true)
     {

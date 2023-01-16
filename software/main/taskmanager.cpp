@@ -4,6 +4,7 @@
 #include <esp_log.h>
 
 // local includes
+#include "input/rotary.h"
 #include "screens.h"
 
 using namespace std::chrono_literals;
@@ -17,6 +18,7 @@ void noop() {}
 
 SchedulerTask schedulerTaskArr[] {
     SchedulerTask{ "display_update", noop, display::update, 30ms },
+    SchedulerTask{ "rotary", input::initRotary, input::updateRotary, 30ms },
 };
 } // namespace
 
