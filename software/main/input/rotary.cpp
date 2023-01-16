@@ -67,8 +67,8 @@ void Rotary::begin()
 
     m_rotating = true;
     m_encoder_pos = 0;
-    m_a_set = 1;
-    m_b_set = 1;
+    m_a_set = true;
+    m_b_set = true;
 }
 
 void Rotary::loop()
