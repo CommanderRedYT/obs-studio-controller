@@ -1,12 +1,12 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.10)*%
-%TF.CreationDate,2023-01-15T02:26:48+01:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.1*%
+%TF.CreationDate,2023-04-08T17:38:17+02:00*%
 %TF.ProjectId,obs-studio-controller,6f62732d-7374-4756-9469-6f2d636f6e74,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Soldermask,Bot*%
 %TF.FilePolarity,Negative*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (6.0.10)) date 2023-01-15 02:26:48*
+G04 Created by KiCad (PCBNEW 7.0.1) date 2023-04-08 17:38:17*
 %MOMM*%
 %LPD*%
 G01*
@@ -125,8 +125,8 @@ X97500000Y-24430000D03*
 %TD*%
 D15*
 %TO.C,USBC1*%
-X44610000Y33690000D03*
 X50390000Y33690000D03*
+X44610000Y33690000D03*
 D16*
 X51820000Y33190000D03*
 D17*
